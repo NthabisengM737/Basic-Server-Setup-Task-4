@@ -37,13 +37,11 @@ index.html
 (screenshot)
 
 ## 4. Folder Structure
-/var
+/var/www
 
-└── www
+└── html
 
-      └── html
-
-        └── index.html
+ └── index.html
 
 (screenshot)
 
