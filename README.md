@@ -54,7 +54,8 @@ The default Apache webpage was replaced with a custom HTML using using:
 
 sudo nano /var/www/html/index.html
 
-(<img width="1011" height="771" alt="image" src="https://github.com/user-attachments/assets/3d93a492-71ac-4952-b84f-dbc1cfd08576" />
+<img width="1022" height="772" alt="image" src="https://github.com/user-attachments/assets/3a55350f-5500-476f-b098-04530b55529f" />
+
 
 
 ## 6. Testing the Web server
